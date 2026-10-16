@@ -1,0 +1,11 @@
+{
+  "id": "20261016_154220_907927",
+  "prompt": "create a image of a cute dog",
+  "created_at": "2026-10-16T15:42:20.907988",
+  "status": "completed",
+  "selection": "first_generated_image",
+  "original_image": "F:\\Jobs\\4k generator\\Flow4K\\downloads\\20261016_154220_907927_Cybernetic_forest_glowing_at_night_20261016154230.jpg",
+  "upscaled_image": "F:\\Jobs\\4k generator\\Flow4K\\output\\20261016_154220_907927_4K.png",
+  "raw_upscaled_image": "F:\\Jobs\\4k generator\\Flow4K\\output\\20261016_154220_907927_4x.png",
+  "completed_at": "2026-10-16T15:42:40.737133"
+}

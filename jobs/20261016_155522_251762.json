@@ -1,0 +1,10 @@
+{
+  "id": "20261016_155522_251762",
+  "prompt": "generate a cat image",
+  "created_at": "2026-10-16T15:55:22.254714",
+  "status": "failed",
+  "selection": "last_newly_detected_option",
+  "original_image": null,
+  "upscaled_image": null,
+  "error": "Locator.wait_for: Target page, context or browser has been closed\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"What do you want to create?\") to be visible\n"
+}

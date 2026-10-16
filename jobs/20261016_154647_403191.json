@@ -1,0 +1,12 @@
+{
+  "id": "20261016_154647_403191",
+  "prompt": "generate a image showing a cartoon character",
+  "created_at": "2026-10-16T15:46:47.403265",
+  "status": "completed",
+  "selection": "last_newly_detected_option",
+  "original_image": "F:\\Jobs\\4k generator\\Flow4K\\downloads\\20261016_154647_403191_Blue_creature_standing_in_forest_20261016154754.jpg",
+  "upscaled_image": "F:\\Jobs\\4k generator\\Flow4K\\output\\20261016_154647_403191_4K.png",
+  "selected_image_url": "https://flow.google.com/asb/ANqvLOYgqUIPvoXOmb1-KUnrUmu1xbqQw8LKkII5266-XLnLbcJgVmtzGUF1piWafnZ39LEH2vUyNZ3zdbN8s6xEvmB5MSjODOZ1Xy2sFwL3EulWXVDrNN_nEg8l91mT34vK_zGIj1WjgW4cpaX0IpSPuisUOb_eGARojtfPV6ScKA=s1600-rw",
+  "raw_upscaled_image": "F:\\Jobs\\4k generator\\Flow4K\\output\\20261016_154647_403191_4x.png",
+  "completed_at": "2026-10-16T15:48:04.042047"
+}

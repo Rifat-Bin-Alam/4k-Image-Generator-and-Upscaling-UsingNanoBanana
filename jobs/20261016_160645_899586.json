@@ -1,0 +1,13 @@
+{
+  "id": "20261016_160645_899586",
+  "prompt": "generate a cat image",
+  "created_at": "2026-10-16T16:06:45",
+  "status": "completed",
+  "flow_url": "https://flow.google.com/project/98d6d8c6-c6af-448b-9314-458d3d92efb6/collection/25d8a7d7-b5b2-4446-bb6c-c244dde54a93",
+  "selection": "last_newly_detected_option",
+  "original_image": "F:\\Jobs\\4k generator\\Flow4K\\downloads\\20261016_160645_899586_a_cat_image_20261016160735.jpg",
+  "raw_upscaled_image": "F:\\Jobs\\4k generator\\Flow4K\\output\\20261016_160645_899586_4x.png",
+  "upscaled_image": "F:\\Jobs\\4k generator\\Flow4K\\output\\20261016_160645_899586_4K.png",
+  "selected_image_url": "https://flow.google.com/asb/ANqvLObOrXJPhxpIfBUvMwzsS_LPeh-VvcoZjAcHoHWS1qAWRPvkWLLOEpd_icAvUyCmxG5JefwmndEO8d04TaL2giFTsrbL70LZ2_ggkc_JpZyUEtELC9UhkLYtgYvOAVw4Fb5X5Tec5_Zq5R-wo8JyCKNH_7axXW5s-zIsweG5uA=s1600-rw",
+  "completed_at": "2026-10-16T16:07:45"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "20261016_155249_300186",
+  "prompt": "generate a cat image",
+  "created_at": "2026-10-16T15:52:49.300245",
+  "status": "failed",
+  "selection": "last_newly_detected_option",
+  "original_image": null,
+  "upscaled_image": null,
+  "error": "BrowserType.connect_over_cdp: connect ECONNREFUSED 127.0.0.1:9222\nCall log:\n  - <ws preparing> retrieving websocket url from http://127.0.0.1:9222\n"
+}
