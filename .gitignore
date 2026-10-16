@@ -12,6 +12,14 @@ __pycache__/
 venv/
 env/
 
+# Browser profiles and session data
+chrome-profile/
+flow-profile/
+
+# Downloads and generated output
+downloads/
+output/
+
 # IDE and editor
 .vscode/
 .idea/
