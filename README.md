@@ -2,7 +2,7 @@
 
 An AI-powered image generation and upscaling project designed to help users create visual content and improve image resolution. The project focuses on making image creation and enhancement more accessible through a streamlined workflow.
 
-## Overview
+## Overview  
 
 The 4K Image Generator and Upscaling project brings together AI-assisted image creation and image enhancement in one application. It aims to provide a convenient way to generate images from creative ideas and upscale existing images for improved resolution and visual quality.
 
