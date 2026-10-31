@@ -19,7 +19,4 @@ with sync_playwright() as p:
     print("If Google permits sign-in, sign in manually.")
     print("Close the browser when you're finished.")
 
-    try:
-        page.wait_for_timeout(600000)
-    finally:
-        context.close()
+  
